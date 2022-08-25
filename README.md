@@ -1,5 +1,5 @@
 <p align="center">
-<img width="200" src="https://github.com/kaminikotekar.png">
+<img width="200" src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif">
 </p>
 
 <h1> Hello fellow coders!<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
@@ -69,10 +69,6 @@
 
 </tr>
 
- <tr>
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-ar21.svg"> 
-</td>
 
 <td align="center" width="33%">
 <img height=60px src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg"> 
